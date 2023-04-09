@@ -1,0 +1,29 @@
+#top1 {
+  border: solid black;
+  background-color: cornflowerblue;
+  padding: 20px;
+}
+
+#head {
+  text-align: center;
+}
+
+#me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 200px;
+}
+
+#bod1 {
+  color: darkcyan;
+  background-color: black;
+  padding: 50px;
+}
+
+#bod2 {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
